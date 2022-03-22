@@ -1,15 +1,15 @@
 ﻿@page "/"
 
 <SfRangeNavigator DataSource="StockDetails" ValueType="RangeValueType.DateTime"
-    LabelFormat="MMM-yy" Value="RangeValue" XName="Date" YName="Close">
+    LabelFormat="MMM-yy" Value="RangeValue">
     <RangeNavigatorMajorGridLines Color="green" Width="4"></RangeNavigatorMajorGridLines>
     <RangeNavigatorMajorTickLines Color="yellow" Width="3"></RangeNavigatorMajorTickLines>
     <RangeNavigatorRangeTooltipSettings Enable="true"
         DisplayMode="TooltipDisplayMode.Always"></RangeNavigatorRangeTooltipSettings>
-    @*<RangeNavigatorSeriesCollection>
-        <RangeNavigatorSeries 
-            Type="RangeNavigatorType.StepLine"></RangeNavigatorSeries>
-    </RangeNavigatorSeriesCollection>*@
+    <RangeNavigatorSeriesCollection>
+        <RangeNavigatorSeries XName="Date" YName="Close"
+            Type="RangeNavigatorType.Area"></RangeNavigatorSeries>
+    </RangeNavigatorSeriesCollection>
 </SfRangeNavigator>
 
 @code{
@@ -32,3 +32,9 @@
         new StockPrice { Date = new DateTime(2011, 01, 01), Close = 62 }
     };
 }
+
+
+
+
+
+
