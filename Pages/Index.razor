@@ -1,0 +1,40 @@
+﻿@page "/"
+
+<SfRangeNavigator DataSource="StockDetails" ValueType="RangeValueType.DateTime"
+    LabelFormat="MMM-yy" Value="RangeValue">
+    <RangeNavigatorMajorGridLines Color="green" Width="4"></RangeNavigatorMajorGridLines>
+    <RangeNavigatorMajorTickLines Color="yellow" Width="3"></RangeNavigatorMajorTickLines>
+    <RangeNavigatorRangeTooltipSettings Enable="true"
+        DisplayMode="TooltipDisplayMode.Always"></RangeNavigatorRangeTooltipSettings>
+    <RangeNavigatorSeriesCollection>
+        <RangeNavigatorSeries XName="Date" YName="Close"
+            Type="RangeNavigatorType.Area"></RangeNavigatorSeries>
+    </RangeNavigatorSeriesCollection>
+</SfRangeNavigator>
+
+@code{
+    public class StockPrice
+    {
+        public DateTime Date { get; set; }
+        public double Close { get; set; }
+    }
+
+    private object[] RangeValue = new object[] {new DateTime(2009, 01, 01), new DateTime(2010, 01, 01)};
+
+    public List<StockPrice> StockDetails = new List<StockPrice>
+    {
+        new StockPrice{ Date=new DateTime(2005, 01, 01), Close=21},
+        new StockPrice { Date = new DateTime(2006, 01, 01), Close = 24 },
+        new StockPrice { Date = new DateTime(2007, 01, 01), Close = 36 },
+        new StockPrice { Date = new DateTime(2008, 01, 01), Close = 38 },
+        new StockPrice { Date = new DateTime(2009, 01, 01), Close = 54 },
+        new StockPrice { Date = new DateTime(2010, 01, 01), Close = 57 },
+        new StockPrice { Date = new DateTime(2011, 01, 01), Close = 62 }
+    };
+}
+
+
+
+
+
+
