@@ -69,7 +69,7 @@ The Blazor Range Selector supports right-to-left rendering, allowing the series 
 
 [Documentation](https://blazor.syncfusion.com/documentation/range-selector/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
-[View Demos](https://blazor.syncfusion.com/demos/range-selector/range-navigator?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
+[View Demos](https://github.com/SyncfusionExamples/getting-started-with-blazor-range-selector-component.git?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
 [Community Forums](https://www.syncfusion.com/forums/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
