@@ -11,18 +11,6 @@ To run this application, you need to first clone the `getting-started-with-blazo
 ## Data Types
 Plot any type of data in a Blazor Range Selector using different value types like numeric, date-time, and logarithmic.
 
-## Chart Types
-Plot the data in the Blazor Range Selector with different chart types like line, area and step line.
-
-## Lightweight
-Skip the chart and show the range alone to select data. This makes the range selector light weight in mobile devices.
-
-## Scales
-The major and minor scales display the range with different intervals and are placed at multiple levels of the range selector. The required date-time scale can be configured to be shown in major and minor scales.
- 
-## Period Selector
-Select data using predefined periods in the range navigator and also use the date picker to select the custom range.
-
 ## Binding selected data
 Bind selected data from the range selector to any other data visualization control using built-in events.
 
@@ -36,19 +24,6 @@ The Blazor Range Selector component provides the following three ways to select 
 * Select a range through labels.
 * Drag the left and right thumbs.
 * Drag the selected range to maintain the same delta.
-
-### Labels
-Customize the size, color, font family, font attribute, and alignment of the labels using built-in APIs.
-
-### Thumb
-Customize the entire appearance of the left and right thumbs using built-in APIs.
-
-### Gridlines
-
-Customize the color, stroke width, dash array, and visibility of the major and minor using built-in APIs.
-
-## Tooltip
-Tooltips display the start and end values of a selected range to enable users to select a required range easily.
 
 ## Globalization and localization 
 
