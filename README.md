@@ -38,9 +38,9 @@ The Blazor Range Selector supports right-to-left rendering, allowing the series 
 ## Related links
 [Learn More about Blazor Range Selector](https://www.syncfusion.com/blazor-components/blazor-range-selector?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
-[Download Free Trial](https://www.syncfusion.com/downloads/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
+[Download Free Trial](https://www.syncfusion.com/downloads/blazor/confirm?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
-[Pricing](https://www.syncfusion.com/sales/products/blazor?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
+[Pricing](https://www.syncfusion.com/sales/teamlicense?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
 [Documentation](https://blazor.syncfusion.com/documentation/range-selector/getting-started?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
@@ -52,10 +52,10 @@ The Blazor Range Selector supports right-to-left rendering, allowing the series 
 
 [Online examples](https://blazor.syncfusion.com/demos/range-selector/range-navigator?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
-[Knowledge Base](https://www.syncfusion.com/kb/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
+[Knowledge Base](https://support.syncfusion.com/kb/web/category/67?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples)
 
 ### About Syncfusion Blazor Components
-The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples) library offers over 70 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Range Selector, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-range-selector-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples).
+The Syncfusion's [Blazor components](https://www.syncfusion.com/blazor-components?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples) library offers over 80 UI components to work with Blazor server-side and client-side (Blazor WebAssembly) projects seamlessly. In addition to Range Selector, we provide popular Blazor Components such as [DataGrid](https://www.syncfusion.com/blazor-range-selector-components/blazor-datagrid?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Charts](https://www.syncfusion.com/blazor-components/blazor-charts?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Scheduler](https://www.syncfusion.com/blazor-components/blazor-scheduler?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), [Diagram](https://www.syncfusion.com/blazor-components/blazor-diagram?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples), and [Word Processor](https://www.syncfusion.com/blazor-components/blazor-word-processor?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples).
 
 ### About Syncfusion
 
