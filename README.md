@@ -1,11 +1,17 @@
 # Getting Started with the Blazor Range Selector Component
+
 [Blazor Range Selector](https://www.syncfusion.com/blazor-components/blazor-range-selector?utm_source=github&utm_medium=listing&utm_campaign=blazor-range-selector-github-samples) is an interface for selecting a small range from a larger collection.A quick-start project that helps you get up and running with the Syncfusion Range Selector component in a Blazor WebAssembly application. This project contains the code to bind data; set ranges, series types, and a tooltip; customize grid and tick lines. You can also find the code to render a lightweight range selector without a chart.
 
-## Project prerequisites
-Make sure that you have the compatible versions of [Visual Studio 2022](https://visualstudio.microsoft.com/downloads/ ) and [.NET Core SDK 6.0](https://dotnet.microsoft.com/en-us/download/dotnet/6.0) or later version in your machine before starting to work on this project.
+## Prerequisites
 
-## How to run this application
-To run this application, you need to first clone the `getting-started-with-blazor-range-selector-component` repository and then open it in Visual Studio 2019. Now, simply build and run your project to view the output.
+* Visual studio 2022
+
+## How to run the project
+
+* Checkout this project to a location in your disk.
+* Open the solution file using the Visual Studio 2022.
+* Restore the NuGet packages by rebuilding the solution.
+* Run the project.
 
 ## Features and benefits
 ## Data Types
